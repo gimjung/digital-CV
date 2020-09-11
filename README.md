@@ -63,7 +63,7 @@ Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data war
 **Master of Data Science** <br>
 [RMIT University](https://www.rmit.edu.au/) - Melbourne, Australia _(Feb 2017 - Jan 2019)_ <br>
 
-**Master of Decision Suport** <br>
+**Master of Decision Suport System** <br>
 [Ramkhamhaeng University](https://www.ru.ac.th/th/) - Bangkok, Thailand _(2014 - 2016)_
 
 **Bachelor of computer science** for Journalism and New Media<br>
