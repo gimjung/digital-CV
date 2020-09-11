@@ -36,6 +36,7 @@ Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data war
   - Python
   - Java
   - SAS
+  - SSIS
   - Data Mining
   - Hadoop (Big data)
   - Machine Learning 
