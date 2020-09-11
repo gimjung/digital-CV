@@ -11,7 +11,7 @@ Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data war
 <br><br>
 
 **Senior Datawarehouse | Senior BI Specialist** ) _(2003 - 2014)_ <br>
-  Providing data-driven, action-oriented solutions to challenging business problems. Business-minded data scientist with a demonstrated ability to deliver valuable insights via   data analytics methods with over thirteen years of experience in Data warehouse and Business Intelligent specialist with cross-functional expertise in the financial,    Telecommunication and manufacturing industry with strong analytical and problem-solving skills. Good relationship and communication skill, hard-working and able to work under pressure. 
+  Providing data-driven, action-oriented solutions to challenging business problems. Business-minded data scientist with a demonstrated ability to deliver valuable insights via   data analytics methods with over seventeen years of experience in Data warehouse and Business Intelligent specialist with cross-functional expertise in the financial,    Telecommunication and manufacturing industry with strong analytical and problem-solving skills. Good relationship and communication skill, hard-working and able to work under pressure. 
   <br><br>
 
 ## 📌 Skill Summaries
