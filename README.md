@@ -2,7 +2,7 @@
 
 Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data warehouse specialist_ <br>
 
-[Email](mailto:napapach.de@outlook.com) / [Facebook](https://www.facebook.com/duck.generalist/?modal=admin_todo_tour)/ [LinkedIn](https://www.linkedin.com/in/napapach-dechawatthanaphokin-7ab9232b/) / [GitHub](https://github.com/gimjung/)
+[Email](mailto:napapach.de@outlook.com) / [Facebook](https://www.facebook.com/duck.generalist/?modal=admin_todo_tour)/ [LinkedIn](https://www.linkedin.com/in/napapach-dechawatthanaphokin-7ab9232b/) / [GitHub](https://github.com/gimjung/) / [RPubs](https://rpubs.com/Napapach/)
 
 ## 👩🏼‍💻 Technical Experience
 
