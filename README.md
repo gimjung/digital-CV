@@ -72,3 +72,5 @@ _Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data wa
 **Diploma of Nursing** <br>
 [Holmesglen Institute of TAFE](https://holmesglen.edu.au/) - Melbourne, Australia _(Feb 2019 - May 2020)_
 
+**Diploma of Accounting** <br>
+[Holmesglen Institute of TAFE](https://holmesglen.edu.au/) - Melbourne, Australia _(Feb 2012 - Aug 2013)_
