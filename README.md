@@ -66,7 +66,7 @@ Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data war
 **Master of Decision Suport System** <br>
 [Ramkhamhaeng University](https://www.ru.ac.th/th/) - Bangkok, Thailand _(2014 - 2016)_
 
-**Bachelor of computer science** for Journalism and New Media<br>
+**Bachelor of computer science** <br>
 [Ramkhamhaeng University](https://www.ru.ac.th/th/) - Bangkok, Thailand _(2009 - 2012)_
 
 **Diploma of Nursing** <br>
