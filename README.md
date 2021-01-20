@@ -8,14 +8,14 @@ Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data war
 
 **Data Scientist | Senior BI Specialist** @ [Triatin](http://www.triatin.com.au/) - Melbourne, Australia (Mar 2018 - Present)_ <br>
   
-  •	Responsible for managing and developing the project for client.
-  •	Dealing with various customers across organizations and departments.
-  •	Gathering information and requirements to identified potential future projects.
-  •	Demonstrated the responsibility to commit work on time with the professional manner.
-  •	Providing analysis report & dashboard for the clients (Sales Tracker, Profit & Loss etc.,).
-  •	Support the clients using SAP Business Object tools.
-  •	Sales demand planning using R, SQL and SAP Business Object.
-  •	Financial Planning Analysis report & dashboard using SQL, SAP Business Object, Power BI and Tableau.
+  - Responsible for managing and developing the project for client.
+  - Dealing with various customers across organizations and departments.
+  - Gathering information and requirements to identified potential future projects.
+  - Demonstrated the responsibility to commit work on time with the professional manner.
+  - Providing analysis report & dashboard for the clients (Sales Tracker, Profit & Loss etc.,).
+  - Support the clients using SAP Business Object tools.
+  - Sales demand planning using R, SQL and SAP Business Object.
+  - Financial Planning Analysis report & dashboard using SQL, SAP Business Object, Power BI and Tableau.
 
 <br><br>
 
