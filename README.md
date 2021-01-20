@@ -7,11 +7,22 @@ Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data war
 ## 👩🏼‍💻 Technical Experience
 
 **Data Scientist | Senior BI Specialist** @ [Triatin](http://www.triatin.com.au/) - Melbourne, Australia (Mar 2018 - Present)_ <br>
-  Providing analysis report & dashboard for the clients.
+  
+  •	Responsible for managing and developing the project for client. 
+  •	Dealing with various customers across organizations and departments
+  •	Gathering information and requirements to identified potential future projects. 
+  •	Demonstrated the responsibility to commit work on time with the professional manner.
+  •	Providing analysis report & dashboard for the clients (Sales Tracker, Profit & Loss etc.,).
+  •	Support the clients using SAP Business Object tools
+  •	Sales demand planning using R, SQL and SAP Business Object
+  •	Financial Planning Analysis report & dashboard using SQL, SAP Business Object, Power BI and Tableau.
+
 <br><br>
 
 **Senior Datawarehouse | Senior BI Specialist** ) _(2003 - 2014)_ <br>
-  Providing data-driven, action-oriented solutions to challenging business problems. Business-minded data scientist with a demonstrated ability to deliver valuable insights via   data analytics methods with over seventeen years of experience in Data warehouse and Business Intelligent specialist with cross-functional expertise in the financial,    Telecommunication and manufacturing industry with strong analytical and problem-solving skills. Good relationship and communication skill, hard-working and able to work under pressure. 
+  Providing data-driven, action-oriented solutions to challenging business problems. Business-minded data scientist with a demonstrated ability to deliver valuable insights via   data analytics methods with over nineteen years of experience in Data warehouse and Business Intelligent specialist with cross-functional expertise in the financial,
+  Telecommunication and manufacturing industry with strong analytical and problem-solving skills. Good relationship and communication skill, hard-working and able to work under
+  pressure. 
   <br><br>
 
 ## 📌 Skill Summaries
