@@ -16,7 +16,6 @@ Data Scientist | Data Analyst | Data Engineer | Business Intelligence | Data war
   - Support the clients using SAP Business Object tools.
   - Sales demand planning using R, SQL and SAP Business Object.
   - Financial Planning Analysis report & dashboard using SQL, SAP Business Object, Power BI and Tableau.
-
 <br><br>
 
 **Senior Datawarehouse | Senior BI Specialist** ) _(2003 - 2014)_ <br>
